@@ -8,7 +8,3 @@ for i in range(int(input())):
         print(f"Error Code: {e}")
     except ZeroDivisionError as e:
         print(f"Error Code: {e}")
-
-
-
-
